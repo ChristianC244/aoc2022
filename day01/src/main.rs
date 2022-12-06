@@ -2,7 +2,6 @@ use eyre::Result;
 use std::cmp::Reverse;
 
 fn main() -> Result<()>{
-
     let input = std::io::read_to_string(std::io::stdin())?;
 
     let input = input.lines()

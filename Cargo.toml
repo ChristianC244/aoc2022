@@ -1,0 +1,6 @@
+# Grazie Dema :*
+[workspace]
+members = [
+    "day01",
+    "day02"
+]
